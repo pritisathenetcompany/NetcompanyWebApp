@@ -18,7 +18,7 @@ namespace NetcompanyWebApp.Pages
         public LoginPage(IWebDriver driver) : base(driver)
         {
 
-        }
+       }
 
         public void EnterUserId(string name)
         {

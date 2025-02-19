@@ -18,6 +18,7 @@ namespace NetcompanyWebApp.StepDefinitions
             _dashboardPage = new DashboardPage(_driver);
         } 
 
+
         [Given("User navigates to the dashboard")]
         public void GivenUserNavigatesToTheDashboard()
         {

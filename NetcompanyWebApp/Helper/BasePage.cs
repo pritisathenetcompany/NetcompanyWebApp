@@ -13,7 +13,6 @@ namespace NetcompanyWebApp.Helper
         {
            this.driver = driver;
         }
-
         public IWebElement FindElementById(string id)
         {
             return driver.FindElement(By.Id(id));

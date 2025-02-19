@@ -6,5 +6,5 @@ Scenario Outline: Verify User Login
 	And Clicks on Login button
 	#Then Navigates to "Dashboard" page
 Examples: 
-| UserName | Password       |
+| UserName | Password       | 
 | admin    | admin_password |

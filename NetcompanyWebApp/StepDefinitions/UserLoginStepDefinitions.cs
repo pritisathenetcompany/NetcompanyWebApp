@@ -23,7 +23,6 @@ namespace NetcompanyWebApp.StepDefinitions
 
         }
 
-
         [Given("User navigates to the loginpage")]
         public void GivenUserNavigatesToTheLoginpage()
         {
