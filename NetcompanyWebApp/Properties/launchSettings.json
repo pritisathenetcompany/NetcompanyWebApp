@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "NetcompanyWebApp": {
+      "environmentVariables": {
+        "browser": "chrome"
+      }
+    }
+  }
+}

@@ -111,6 +111,9 @@ this.ScenarioInitialize(scenarioInfo);
 #line 6
  await testRunner.AndAsync("Clicks on Login button", ((string)(null)), ((global::Reqnroll.Table)(null)), "And ");
 #line hidden
+#line 7
+ await testRunner.ThenAsync("Navigates to \"Dashboard\" page", ((string)(null)), ((global::Reqnroll.Table)(null)), "Then ");
+#line hidden
             }
             await this.ScenarioCleanupAsync();
         }
